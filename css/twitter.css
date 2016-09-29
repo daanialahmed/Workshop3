@@ -1,0 +1,25 @@
+body {
+
+padding-top: 60px;
+
+}
+.tw-search {
+
+width: 200px !important;
+border-radius: 15px;
+
+}
+.tw-reply {
+
+width: 550px !important;
+
+}
+.tw-trending {
+
+border-bottom: 1px solid lightgrey;
+padding-bottom: 10px;
+}
+.grey, .grey a {
+  color: #808080;
+  padding: 10px 30px;
+}
